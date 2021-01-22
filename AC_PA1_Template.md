@@ -3,7 +3,7 @@
 
 
 ## Loading and preprocessing the data
-##### 1. Load the data (i.e. read.csv())
+### 1. Load the data (i.e. read.csv())
 
 ```r
 if(!file.exists('activity.csv')){
