@@ -131,4 +131,4 @@ ggplot(averagedActivityDataImputed, aes(interval, steps)) +
     ylab("avarage number of steps")
 ```
 
-![plot of AC_Plot_4](figure/AC_Plot_4.png) 
+![plot of AC_Plot_4](figure/AC_Plot_4.png)
